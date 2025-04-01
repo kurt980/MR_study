@@ -2,10 +2,10 @@
 
 # Running GWAS 
 
-# 1. Script for running GWAS for the main analysis
+# 1. Script for running GWAS for the main analysis ()
 
 ############################################################
-## Readme: this code runs and saves GWAS results for SCFC
+## Readme: this code runs and saves GWAS results for SFC
 ############################################################
 
 
